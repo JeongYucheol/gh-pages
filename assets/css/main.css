@@ -1,6 +1,7 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700,300i,600i,700i|Raleway:600,800");
-
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR');
+font-family: 'Noto Sans KR', sans-serif;
 /*
 	Paradigm Shift by HTML5 UP
 	html5up.net | @ajlkn
@@ -163,7 +164,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color:  #000000;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: 'Noto Sans KR', Helvetica, sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
 		letter-spacing: 0.0375em;
@@ -200,7 +201,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #43d9b8;
-		font-family: "Raleway", Helvetica, sans-serif;
+		font-family: "Noto Sans KR", Helvetica, sans-serif;
 		font-weight: 600;
 		letter-spacing: 0.175em;
 		line-height: 1.75;
@@ -3863,3 +3864,5 @@ input, select, textarea {
 		}
 
 	}
+	.color-blue{ color: #43d9b8 !important;}
+	.color-w{ color: #ffffff !important;}
