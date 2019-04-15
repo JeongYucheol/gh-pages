@@ -3865,4 +3865,6 @@ input, select, textarea {
 
 	}
 	.color-blue{ color: #43d9b8 !important;}
+	.color-red{ color: #f00 !important;}
 	.color-w{ color: #ffffff !important;}
+	.text-small{font-size:0.7rem;}
